@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi this is chapter one. And this is so funny chapter.
+=======
+This is the bla bla of chapter 1 which i am writing form newBranch which is my experimental branch.
+>>>>>>> newBranch
